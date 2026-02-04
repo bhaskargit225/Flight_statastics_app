@@ -1,0 +1,13 @@
+# For Core HTTP & scheduling
+requests>=2.31.0
+schedule>=1.2.1
+
+# File & folder monitoring
+watchdog>=4.0.0
+
+# Azure Data Lake Gen2 SDK
+azure-storage-file-datalake>=12.14.0
+azure-identity>=1.16.0
+
+# Config & environment management
+python-dotenv>=1.0.1
